@@ -1,6 +1,6 @@
 ## Introduction：
 
-### This is a project that I had at 2020 spring semester. The goal of this project require student to write a similar game based on a game called "Triples" in the Apple store. So, the first thing I did was design a game board for my game. I add some basic buttons that the users can move the number tile by clicking the button below to play this game. Then the score can change when users get more numbers to add up to a larger number. Then I add a function that allows users to move the number tile by reading the movement from users’ fingers on the screen. That gives the users two options to play this game. 
+### This is a project that I had at 2021 spring semester. The goal of this project require student to write a similar game based on a game called "Triples" in the Apple store. So, the first thing I did was design a game board for my game. I add some basic buttons that the users can move the number tile by clicking the button below to play this game. Then the score can change when users get more numbers to add up to a larger number. Then I add a function that allows users to move the number tile by reading the movement from users’ fingers on the screen. That gives the users two options to play this game. 
 ![image](https://user-images.githubusercontent.com/61810170/148300225-8f545c68-bcff-4a8c-89a1-809b8cb9b4cf.png)
 
 ### Now we have completed the basic game interface design and gameplay selection. The next thing I do is to add a record interface to my game that can record the player's score.
